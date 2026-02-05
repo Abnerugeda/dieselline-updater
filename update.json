@@ -5,7 +5,7 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa25JbjN4WXJrak5paXhYeDFKTzI3THRab1dzM3pJY2ZiVGNoKzNYSnhaUDJJNXpzekhKaWNicXJjV2Q1SzZGeEpXcC9SbnhCbzB6Q2s0UThFNEdwbFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzEyMjY1CWZpbGU6ZGllc2VsbGluZV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQpramFCdGd4VSt1YTl6M3F5VS9UY3NxelRMb3Z4eFZWTkRBbEk2ZWlFc2pBTXNiQUJLOFZ0OUZ2K2hPQlEzdnFwSFphRHY5VjBSZ1ZNbERBQWpEU3REQT09Cg==",
-      "url": "https://github.com/Abnerugeda/dieselline/releases/download/v0.4.0/dieselline_0.3.0_amd64.AppImage"
+      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/latest"
     }
   }
 }
