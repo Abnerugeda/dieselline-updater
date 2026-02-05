@@ -4,8 +4,8 @@
   "pub_date": "2026-02-04T12:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa200SXhPVlBESng0QUJCR1piclRYVThCRmwyZVd1czRBNzRRQzJ3elkrZ3IrUUhuLytvR0dNWVZ6SDZqKzU0WXpHSjlLRWpIbmNaN1B2dVpZWEZDL2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjU1MTA5CWZpbGU6ZGllc2VsbGluZV8xLjAuMF9hbWQ2NC5BcHBJbWFnZQpDKzFHdG1wQ2JDNHlwT1R1cDhlQ3pVMWxmaTdKdkRxQ05NV2FVYlZJdnFrOFZVZTBrZGl1YzJ6V1ArclBQWDhJS3JlUkluWmhjL29uK1N6UTZxdjNBQT09Cg==",
-      "url": "https://github.com/Abnerugeda/dieselline/releases/download/v0.4.0/dieselline_1.0.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa25JbjN4WXJrak5paXhYeDFKTzI3THRab1dzM3pJY2ZiVGNoKzNYSnhaUDJJNXpzekhKaWNicXJjV2Q1SzZGeEpXcC9SbnhCbzB6Q2s0UThFNEdwbFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzEyMjY1CWZpbGU6ZGllc2VsbGluZV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQpramFCdGd4VSt1YTl6M3F5VS9UY3NxelRMb3Z4eFZWTkRBbEk2ZWlFc2pBTXNiQUJLOFZ0OUZ2K2hPQlEzdnFwSFphRHY5VjBSZ1ZNbERBQWpEU3REQT09Cg==",
+      "url": "https://github.com/Abnerugeda/dieselline/releases/download/v0.4.0/dieselline_0.3.0_amd64.AppImage"
     }
   }
 }
