@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Corrigimos bugs e adicionamos novas funções!",
+  "pub_date": "2026-02-04T12:00:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDkyOTgxNUFCRDk3OUQ3MTgKUldRWTEzblpxeFdZa2owZUdnbExERDBXV2EwK0NNaVNYbEpiZG9uNmY3S2ZNYTIrYXZSUFlTL1AK",
+      "url": "https://github.com/Abnerugeda/dieselline/releases/download/dieselline/dieselline_0.1.0_amd64.AppImage"
+    }
+  }
+}
