@@ -6,6 +6,10 @@
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa3E4bHArOHBHS3p2bW5uZ1R5eVhOSHFITHFBeUh5ald3d2ozQ3VLQmdXdXA1ZEdVS1dEWTkyTktrYW5PVzQ0bFdPZmQ3SHZhMU9zcnlLRGNkb3RDYUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc1MTE5CWZpbGU6ZGllc2VsbGluZV8wLjguMF9hYXJjaDY0LkFwcEltYWdlCjFFY1ZyTmJKNkdjV0VWam1JQXZTZWVvYXArb3daRlZiZTBTNDRrTnJFM0VZUnpkZGZoNVJFamZ5ZjJLd2NCdDlEZ1NFVnZSQWxUMkl1eWdGUVRlU0NRPT0K",
       "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/445771515"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa3E4bHArOHBHS3p2bW5uZ1R5eVhOSHFITHFBeUh5ald3d2ozQ3VLQmdXdXA1ZEdVS1dEWTkyTktrYW5PVzQ0bFdPZmQ3SHZhMU9zcnlLRGNkb3RDYUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc1MTE5CWZpbGU6ZGllc2VsbGluZV8wLjguMF9hYXJjaDY0LkFwcEltYWdlCjFFY1ZyTmJKNkdjV0VWam1JQXZTZWVvYXArb3daRlZiZTBTNDRrTnJFM0VZUnpkZGZoNVJFamZ5ZjJLd2NCdDlEZ1NFVnZSQWxUMkl1eWdGUVRlU0NRPT0K",
+      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/445771515"
     }
   }
 }
