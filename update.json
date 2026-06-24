@@ -4,12 +4,12 @@
   "pub_date": "2026-06-23T23:03:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa2lqZDZOYjFVUXhQenE4WUdtdE5qMlc5YUt5aElEN29LYk84WmcvUkFkZTVCWHZySUtBVXdXd1kvYkM4QldsbjZjS1MrNzRjd1h2bnVaQjZJbWt4alFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjY0MjY0CWZpbGU6ZGllc2VsbGluZV8wLjkuMF9hYXJjaDY0LkFwcEltYWdlCjBrT2Z4aWk0YkNWazE3TFFXaEN0NUh5cGQzUWdrWGY4b0FVQU0wdXM1a0JqKzBNczMvNmEyYzc1TzFLTjZaeWhyMVB3bytGbkNDQ3VmdDlsU1MvTENRPT0K",
-      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/456162523"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa3NRVEJxajRVTDlMVjZVd1paM2VIZlhiWmcxS3ZBVEdjTXprZU9DMTNHK2Q2R1dqS2hUR1ozN1VwcEFhNThMbTRENEp6bk9GV2pLTnpLQWgwa1VrY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjY4MTg4CWZpbGU6ZGllc2VsbGluZV8wLjkuMF9hYXJjaDY0LkFwcEltYWdlCnJUbFVraVZ6LytldUpHbEJIZEIwTDJpay9KK2xFaHFmcVJZWTZtWTVZVnNjYmhMZnVQUkhjeWF0ME1ycWRsSjRiV0dIYjA1Y2pPcUYvYk50eU5OTkJ3PT0K",
+      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/456208899"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa2lqZDZOYjFVUXhQenE4WUdtdE5qMlc5YUt5aElEN29LYk84WmcvUkFkZTVCWHZySUtBVXdXd1kvYkM4QldsbjZjS1MrNzRjd1h2bnVaQjZJbWt4alFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjY0MjY0CWZpbGU6ZGllc2VsbGluZV8wLjkuMF9hYXJjaDY0LkFwcEltYWdlCjBrT2Z4aWk0YkNWazE3TFFXaEN0NUh5cGQzUWdrWGY4b0FVQU0wdXM1a0JqKzBNczMvNmEyYzc1TzFLTjZaeWhyMVB3bytGbkNDQ3VmdDlsU1MvTENRPT0K",
-      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/456162523"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWTEzblpxeFdZa3NRVEJxajRVTDlMVjZVd1paM2VIZlhiWmcxS3ZBVEdjTXprZU9DMTNHK2Q2R1dqS2hUR1ozN1VwcEFhNThMbTRENEp6bk9GV2pLTnpLQWgwa1VrY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjY4MTg4CWZpbGU6ZGllc2VsbGluZV8wLjkuMF9hYXJjaDY0LkFwcEltYWdlCnJUbFVraVZ6LytldUpHbEJIZEIwTDJpay9KK2xFaHFmcVJZWTZtWTVZVnNjYmhMZnVQUkhjeWF0ME1ycWRsSjRiV0dIYjA1Y2pPcUYvYk50eU5OTkJ3PT0K",
+      "url": "https://api.github.com/repos/Abnerugeda/dieselline/releases/assets/456208899"
     }
   }
 }
